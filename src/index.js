@@ -11,6 +11,6 @@ const root = createRoot(container);
 root.render(<BoothDiagram />);
 
 const rect = document.getElementById("container_grid_rect");
-rect.style.fill = "gray";
+// rect.style.fill = "gray";
 
   
