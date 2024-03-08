@@ -2,6 +2,6 @@
 module.exports = {
   widgetName: "booth-new",
   server: "$",
-  file: "jsDev",
+  file: "BoothTest",
   uploadScript: "UploadToHTML",
 };
